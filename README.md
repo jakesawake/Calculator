@@ -1,2 +1,3 @@
 # Calculator
-Calculator project for TOP
+
+Calculator project with interactable buttons and symbols, gameboy style
